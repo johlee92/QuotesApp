@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		CB8DE2AF27FECBDC00855B7F /* QuotesAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB8DE2AE27FECBDC00855B7F /* QuotesAppApp.swift */; };
+		CB8DE2AF27FECBDC00855B7F /* QuotesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB8DE2AE27FECBDC00855B7F /* QuotesApp.swift */; };
 		CB8DE2B127FECBDC00855B7F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB8DE2B027FECBDC00855B7F /* ContentView.swift */; };
 		CB8DE2B327FECBDD00855B7F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CB8DE2B227FECBDD00855B7F /* Assets.xcassets */; };
 		CB8DE2B627FECBDD00855B7F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CB8DE2B527FECBDD00855B7F /* Preview Assets.xcassets */; };
@@ -15,7 +15,7 @@
 
 /* Begin PBXFileReference section */
 		CB8DE2AB27FECBDC00855B7F /* QuotesApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QuotesApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		CB8DE2AE27FECBDC00855B7F /* QuotesAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuotesAppApp.swift; sourceTree = "<group>"; };
+		CB8DE2AE27FECBDC00855B7F /* QuotesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuotesApp.swift; sourceTree = "<group>"; };
 		CB8DE2B027FECBDC00855B7F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CB8DE2B227FECBDD00855B7F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CB8DE2B527FECBDD00855B7F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -51,7 +51,7 @@
 		CB8DE2AD27FECBDC00855B7F /* QuotesApp */ = {
 			isa = PBXGroup;
 			children = (
-				CB8DE2AE27FECBDC00855B7F /* QuotesAppApp.swift */,
+				CB8DE2AE27FECBDC00855B7F /* QuotesApp.swift */,
 				CB8DE2B027FECBDC00855B7F /* ContentView.swift */,
 				CB8DE2B227FECBDD00855B7F /* Assets.xcassets */,
 				CB8DE2B427FECBDD00855B7F /* Preview Content */,
@@ -138,7 +138,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CB8DE2B127FECBDC00855B7F /* ContentView.swift in Sources */,
-				CB8DE2AF27FECBDC00855B7F /* QuotesAppApp.swift in Sources */,
+				CB8DE2AF27FECBDC00855B7F /* QuotesApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
